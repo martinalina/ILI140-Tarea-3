@@ -1,6 +1,12 @@
 # ILI140 | Entrega Taller Programación IA
 
 **Grupo:** Syntax Terrors
+**Integrantes:**
+* Martina Tejo, 202104018 - 8
+* Vicente Vizcarra, 202173036-2
+* Joaquín Navarro, 202173125-3
+* Lorna Mella, 202110037-7
+* Matías Guerra Valles, 202173137-7
 
 ## 📌 Sobre el Proyecto
 Este repositorio contiene la solución al desafío de análisis de datos de incendios forestales mediante técnicas de **Machine Learning no supervisado**.
