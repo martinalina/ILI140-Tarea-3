@@ -1,6 +1,7 @@
 # ILI140 | Entrega Taller Programación IA
 
 **Grupo:** Syntax Terrors
+
 **Integrantes:**
 * Martina Tejo, 202104018 - 8
 * Vicente Vizcarra, 202173036-2
